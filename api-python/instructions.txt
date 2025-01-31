@@ -1,0 +1,16 @@
+To get into python venv:
+enter api-python
+python -m venv .venv
+.venv\Scripts\activate
+
+
+to run: 
+python: flask --app app.py run
+node.js express: node app.js
+react: npm run dev
+
+localhost:3300 for api 
+localhost:5000 for api-python
+
+name for input matches api names
+
